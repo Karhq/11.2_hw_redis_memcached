@@ -29,7 +29,7 @@
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 #### Ответ: 
-
+![Скрин](https://github.com/Karhq/11.2_hw_redis_memcached/blob/main/nom.1.png)
 
 ---
 
@@ -40,7 +40,7 @@
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 #### Ответ: 
-
+![Скрин2](https://github.com/Karhq/11.2_hw_redis_memcached/blob/main/nom.2.png)
 
 ---
 
